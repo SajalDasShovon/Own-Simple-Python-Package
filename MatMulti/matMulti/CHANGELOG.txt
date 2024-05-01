@@ -1,0 +1,20 @@
+****************    Change Log  *********************
+
+The Change Log file documents all notable changes made to the MatrixMultiplier package across 
+different versions. This log helps users and developers track the evolution of the package, 
+including bug fixes, new features, and improvements.
+
+
+#### Version 0.0.1 (2024-04-24) ####
+
+
+Initial release of the MatrixMultiplier package:
+->Added support for multiplying matrices of any dimensions.
+->Implemented efficient algorithm for fast matrix multiplication.
+->Provided detailed documentation and usage examples.
+
+#### Version 0.0.2 (2024-04-25) ####
+
+#### Version 0.0.3 (2024-04-25) ####
+
+#### Version 0.0.5 (2024-04-29) ####
